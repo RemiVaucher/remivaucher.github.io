@@ -57,6 +57,18 @@
   padding: 0;
 }
 
+.u-section-1 .u-btn-8 {
+  background-image: none;
+  font-size: 1.125rem;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-9 {
+  background-image: none;
+  font-size: 1.125rem;
+  padding: 0;
+}
+
 @media (max-width: 1199px) {
   .u-section-1 .u-btn-1 {
     margin-left: 220px;
