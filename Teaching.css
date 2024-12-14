@@ -137,6 +137,21 @@
   padding: 0;
 }
 
+.u-section-1 .u-btn-20 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-21 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-22 {
+  background-image: none;
+  padding: 0;
+}
+
 @media (max-width: 1199px) {
   .u-section-1 .u-btn-1 {
     margin-left: 220px;
